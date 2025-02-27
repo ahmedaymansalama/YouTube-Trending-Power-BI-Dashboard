@@ -4,6 +4,23 @@
 This project involves analyzing **trending YouTube videos** across **10 countries** over **205 days** using **Power BI**.  
 The goal is to extract insights into trending content, audience engagement, and category performance, helping content creators and businesses optimize their strategies.  
 
+### 📊 Dashboard Overview
+Here is a preview of the Power BI dashboard:
+
+<table>
+  <tr>
+    <td><img src="![Image](https://github.com/user-attachments/assets/c21fb55d-9002-47cc-bbda-f03557349532)
+" width="400"></td>
+    <td><img src="![Image](https://github.com/user-attachments/assets/94012a99-5bdf-4032-a9e4-ec4acfeeb48f)
+" width="400"></td>
+  </tr>
+  <tr>
+    <td><img src="![Image](https://github.com/user-attachments/assets/88dd47ef-6521-47c4-a8f5-c4a69968a579)
+" width="400"></td>
+    <td><img src="![Image](https://github.com/user-attachments/assets/e5b247f2-a642-4109-88cf-896f97a39fe8)" width="400"></td>
+  </tr>
+</table>
+
 ## Dataset  
 The dataset was obtained from **Kaggle** and includes:  
 - **10 CSV files** (each representing a country's trending videos).  
