@@ -7,19 +7,10 @@ The goal is to extract insights into trending content, audience engagement, and 
 ### 📊 Dashboard Overview
 Here is a preview of the Power BI dashboard:
 
-<table>
-  <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/c21fb55d-9002-47cc-bbda-f03557349532.png)
-" width="400"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/94012a99-5bdf-4032-a9e4-ec4acfeeb48f.png)
-" width="400"></td>
-  </tr>
-  <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/88dd47ef-6521-47c4-a8f5-c4a69968a579.png)
-" width="400"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/e5b247f2-a642-4109-88cf-896f97a39fe8.png)" width="400"></td>
-  </tr>
-</table>
+![Dashboard Image 1](https://user-images.githubusercontent.com/12345678/image1.png)
+![Dashboard Image 2](https://user-images.githubusercontent.com/12345678/image2.png)
+![Dashboard Image 3](https://user-images.githubusercontent.com/12345678/image3.png)
+![Dashboard Image 4](https://user-images.githubusercontent.com/12345678/image4.png)
 
 ## Dataset  
 The dataset was obtained from **Kaggle** and includes:  
