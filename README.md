@@ -9,13 +9,12 @@ Here is a preview of the Power BI dashboard:
 
 <table>
   <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/c21fb55d-9002-47cc-bbda-f03557349532.png)" width="400"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/94012a99-5bdf-4032-a9e4-ec4acfeeb48f).png" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/90dd806e-b3c1-460a-bf41-40542ec09484.png)" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/db4e0369-87e1-475a-964d-b8f1fbfe2b58.png" width="400"></td>
   </tr>
   <tr>
-    <td><img src="![Image](https://github.com/user-attachments/assets/88dd47ef-6521-47c4-a8f5-c4a69968a579)
-.png" width="400"></td>
-    <td><img src="![Image](https://github.com/user-attachments/assets/e5b247f2-a642-4109-88cf-896f97a39fe8).png" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/184f0ecb-9c92-4cc6-9655-e6e1cb994bc1.png" width="400"></td>
+    <td><img src="https://github.com/user-attachments/assets/11dd32a9-e488-4a7f-9f13-d42b239e10cf.png" width="400"></td>
   </tr>
 </table>
 
