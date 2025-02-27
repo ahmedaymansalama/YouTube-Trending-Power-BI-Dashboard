@@ -41,7 +41,7 @@ The dataset was obtained from **Kaggle** and includes:
 3 **Designed an optimized data model** with fact & dimension tables for efficiency.  
 4 **Built interactive visualizations** using Power BI to present insights.  
 
-## Future Enhancements 🚀
+## Future Enhancements 
 In the future, I plan to add a **Dark Mode** feature to enhance the dashboard's usability and improve the overall user experience. 
 This will provide better contrast, reduce eye strain, and make the dashboard more visually appealing in low-light environments.  
 
