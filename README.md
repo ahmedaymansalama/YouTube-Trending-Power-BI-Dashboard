@@ -9,12 +9,12 @@ Here is a preview of the Power BI dashboard:
 
 <table>
   <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/190957386/417387530-d8473da5-f309-41e3-a3e0-105d9d5eb04c.png" width="400"></td>
-    <td><img src="https://private-user-images.githubusercontent.com/190957386/417387532-65d8d14b-b2b2-496b-80de-6c873aec0cac.png" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(1).png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(2).png?raw=true" width="400"></td>
   </tr>
   <tr>
-    <td><img src="https://private-user-images.githubusercontent.com/190957386/417387531-abb705cd-a976-4d65-8b7d-d0dade558cdd.png" width="400"></td>
-    <td><img src="https://private-user-images.githubusercontent.com/190957386/417387529-ec9c872f-35fb-41f6-9071-8a6dd5967f8c.png" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(3).png?raw=true" width="400"></td>
+    <td><img src="https://github.com/ahmedaymansalama/YouTube-Trending-Power-BI-Dashboard/blob/main/Screenshot%20(4).png?raw=true" width="400"></td>
   </tr>
 </table>
 
